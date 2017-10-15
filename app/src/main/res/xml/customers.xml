@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <!--自定义Android resource directory，添加根节点、子节点信息-->
+    <customer name="wgh" tel="13585965987" email="thgj@163.com"/>
+    <customer name="jiu" tel="15896589658" email="nyjj@microsoft.com"/>
+    <customer name="tfg" tel="12585965895" email="ujuyt@sina.com"/>
+</customers>
